@@ -1,0 +1,28 @@
+{
+  "name": "challenge-15",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <img src=\"https://img.shields.io/badge/License-MIT-blue\"></img> <img src=\"https://img.shields.io/github/repo-size/Morkendi/Text-Editor?color=green&label=Repo%20Size\"></img> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morkendi/Text-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morkendi/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/Morkendi/Text-Editor#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
