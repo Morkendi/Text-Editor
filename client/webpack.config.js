@@ -14,7 +14,7 @@ module.exports = () => {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
-    // Add and configure workbox plugins for 
+    // Add and configure workbox plugins 
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
