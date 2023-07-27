@@ -9,8 +9,8 @@
 
 <div align="center"> 
     <img src="https://img.shields.io/badge/Express.js-red"><img>
-    <img src="https://img.shields.io/badge/-if-env-orange"><img>
-    <img src="https://img.shields.io/badge/-nodemon-blue"><img>
+    <img src="https://img.shields.io/badge/Concurrently-brightgreen"><img>
+    <img src="https://img.shields.io/badge/nodemon-blue"><img>
 </div>
 
 ## Table of contents <!-- omit in toc -->
